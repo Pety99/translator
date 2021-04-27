@@ -1,0 +1,15 @@
+/* Styles for tab labels */
+.mat-tab-label {
+  background-color: transparent;
+  color: black;
+}
+
+/* Styles for the active tab label */
+.mat-tab-label.mat-tab-label-active {
+  background-color: transparent;
+  color: black;
+}
+
+.tab-group {
+  margin-top: 16px;
+}
